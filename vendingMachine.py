@@ -6,3 +6,6 @@ def main():
 
 #EKSEKUSINYA DI SINI
 main()
+
+# mau nyoba ges
+print("Hello world")
