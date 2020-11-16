@@ -1,3 +1,3 @@
 # VendingMicin
 
-# Semangat kerja lembur bagai kuda
+Semangat kerja lembur bagai kuda :)
